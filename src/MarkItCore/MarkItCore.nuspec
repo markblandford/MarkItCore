@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>MarkItCore</id>
+    <version>1.0.0</version>
+    <title>MarkItCore</title>
+    <authors>Mark Blandford</authors>
+    <owners>Mark Blandford</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>An ASP.NET Core dll to make web API requests to MarkIt</description>
+    <releaseNotes>First Version.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags></tags>
+  </metadata>
+</package>
